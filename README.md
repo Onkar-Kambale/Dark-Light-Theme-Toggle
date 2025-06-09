@@ -17,7 +17,7 @@ A creative and interactive website featuring a smooth dark/light mode toggle wit
 
 ## 🚀 Live Demo
 
-[🔗 Click here to view the live demo](_)
+[🔗 Click here to view the live demo](https://onkar-kambale.github.io/Dark-Light-Theme-Toggle/)
 
 ## 🛠️ How to Use
 
